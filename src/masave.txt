@@ -1,0 +1,8 @@
+S C 121.0 72.0 Inconnu
+S C 105.0 126.0 Inconnu
+S C 202.0 127.0 Inconnu
+S R 221.0 73.0 Inconnu
+A L 5 true 0 1
+A L 9 true 1 2
+A C 9 true 181.0 88.0 0 2
+A C 5 true 265.0 107.0 2 3
